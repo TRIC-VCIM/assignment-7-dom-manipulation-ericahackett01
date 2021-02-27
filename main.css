@@ -1,0 +1,35 @@
+body{
+  font-family: sans-serif;
+}
+
+input,
+label {
+  display: block;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+section {
+  margin-bottom: 25px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table tr th {
+  border-bottom: 2px solid #333;
+}
+
+table tr td {
+  width: 25%  
+  text-align: left;
+  border-bottom: 1px dashed #333; 
+}
+
+.topRated {
+  background-color: yellow; 
+}
+
